@@ -1,0 +1,23 @@
+{
+  "name": "primeraentrega",
+  "version": "1.0.0",
+  "description": "Primera entrega curso virtual tdea Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgavirias13/tdeaNodePrimeraEntrega.git"
+  },
+  "keywords": [
+    "tdea",
+    "curso"
+  ],
+  "author": "Juan Pablo Gaviria Salazar jgavirias13@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgavirias13/tdeaNodePrimeraEntrega/issues"
+  },
+  "homepage": "https://github.com/jgavirias13/tdeaNodePrimeraEntrega#readme"
+}
