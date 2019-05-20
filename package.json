@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/jgavirias13/tdeaNodePrimeraEntrega/issues"
   },
-  "homepage": "https://github.com/jgavirias13/tdeaNodePrimeraEntrega#readme"
+  "homepage": "https://github.com/jgavirias13/tdeaNodePrimeraEntrega#readme",
+  "dependencies": {
+    "numeral": "^2.0.6",
+    "yargs": "^13.2.4"
+  }
 }
